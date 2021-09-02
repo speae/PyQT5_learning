@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98437375-a84c-4d3d-abc1-c4f99479f93c" name="Changes" comment="GUI test" />
+    <list default="true" id="98437375-a84c-4d3d-abc1-c4f99479f93c" name="Changes" comment="GUI test">
+      <change beforePath="$PROJECT_DIR$/.idea/PyQT5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyQT5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_rotate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_rotate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_rotate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_rotate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_scale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_scale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_scale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_scale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_shear.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_shear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_shear.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_shear.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_trans.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_trans.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/messi_trans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/img/messi_trans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool.ui" beforeDir="false" afterPath="$PROJECT_DIR$/tool.ui" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../opencvEx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -206,6 +219,7 @@
       <workItem from="1630459229371" duration="21955000" />
       <workItem from="1630496829163" duration="135000" />
       <workItem from="1630541712400" duration="28192000" />
+      <workItem from="1630625624041" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="GUI test">
       <created>1630583184570</created>
@@ -253,22 +267,23 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyQT5$centerWindow.coverage" NAME="centerWindow Coverage Results" MODIFIED="1630470542208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$WebEngineViewEx.coverage" NAME="WebEngineViewEx Coverage Results" MODIFIED="1630542548108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$LabelEx.coverage" NAME="LabelEx Coverage Results" MODIFIED="1630473158248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$ToolTip.coverage" NAME="ToolTip Coverage Results" MODIFIED="1630462271266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$ToolBarEx.coverage" NAME="ToolBarEx Coverage Results" MODIFIED="1630470299314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$addIcon.coverage" NAME="addIcon Coverage Results" MODIFIED="1630460608646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$MainWindow_status.coverage" NAME="MainWindow_status Coverage Results" MODIFIED="1630462695293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$QPixmapEx.coverage" NAME="QPixmapEx Coverage Results" MODIFIED="1630476739151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$CheckBoxEx.coverage" NAME="CheckBoxEx Coverage Results" MODIFIED="1630564244174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$FileDialogEx2.coverage" NAME="FileDialogEx2 Coverage Results" MODIFIED="1630477300450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$ToolTip.coverage" NAME="ToolTip Coverage Results" MODIFIED="1630462271266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$LabelEx.coverage" NAME="LabelEx Coverage Results" MODIFIED="1630473158248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$MainWindow_status.coverage" NAME="MainWindow_status Coverage Results" MODIFIED="1630462695293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$MenuBarEx.coverage" NAME="MenuBarEx Coverage Results" MODIFIED="1630463123552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$closeWindow.coverage" NAME="closeWindow Coverage Results" MODIFIED="1630462180001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$PushButtonEx.coverage" NAME="PushButtonEx Coverage Results" MODIFIED="1630475112439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$uiImportEx.coverage" NAME="uiImportEx Coverage Results" MODIFIED="1630571248212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$createWindow.coverage" NAME="createWindow Coverage Results" MODIFIED="1630460098629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQT5$FileDialogEx.coverage" NAME="FileDialogEx Coverage Results" MODIFIED="1630469740979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$uiImport.coverage" NAME="uiImport_hflip Coverage Results" MODIFIED="1630561827231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$WebEngineViewEx.coverage" NAME="WebEngineViewEx Coverage Results" MODIFIED="1630542548108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$addIcon.coverage" NAME="addIcon Coverage Results" MODIFIED="1630460608646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$closeWindow.coverage" NAME="closeWindow Coverage Results" MODIFIED="1630462180001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$uiImportEx.coverage" NAME="uiImportEx Coverage Results" MODIFIED="1630571248212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$FileDialogEx.coverage" NAME="FileDialogEx Coverage Results" MODIFIED="1630469740979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$FileDialogEx2.coverage" NAME="FileDialogEx2 Coverage Results" MODIFIED="1630477300450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5_learning$uiImportEx.coverage" NAME="uiImportEx Coverage Results" MODIFIED="1630626819773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$PushButtonEx.coverage" NAME="PushButtonEx Coverage Results" MODIFIED="1630475112439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$centerWindow.coverage" NAME="centerWindow Coverage Results" MODIFIED="1630470542208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$QPixmapEx.coverage" NAME="QPixmapEx Coverage Results" MODIFIED="1630476739151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$ToolBarEx.coverage" NAME="ToolBarEx Coverage Results" MODIFIED="1630470299314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

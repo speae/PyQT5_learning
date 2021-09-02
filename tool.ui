@@ -16,10 +16,10 @@
   <widget class="QPushButton" name="btn_opendir">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>32</y>
-     <width>111</width>
-     <height>41</height>
+     <x>30</x>
+     <y>80</y>
+     <width>151</width>
+     <height>51</height>
     </rect>
    </property>
    <property name="font">
@@ -36,10 +36,10 @@
   <widget class="QPushButton" name="btn_run">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>82</y>
-     <width>111</width>
-     <height>41</height>
+     <x>30</x>
+     <y>150</y>
+     <width>151</width>
+     <height>51</height>
     </rect>
    </property>
    <property name="font">
@@ -56,10 +56,10 @@
   <widget class="QPushButton" name="btn_preview">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>130</y>
-     <width>111</width>
-     <height>41</height>
+     <x>30</x>
+     <y>220</y>
+     <width>151</width>
+     <height>51</height>
     </rect>
    </property>
    <property name="font">
@@ -114,8 +114,8 @@
   <widget class="QCheckBox" name="cb_hflip">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>190</y>
+     <x>30</x>
+     <y>310</y>
      <width>141</width>
      <height>31</height>
     </rect>
@@ -134,8 +134,8 @@
   <widget class="QCheckBox" name="cb_trans">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>250</y>
+     <x>30</x>
+     <y>370</y>
      <width>141</width>
      <height>21</height>
     </rect>
@@ -154,8 +154,8 @@
   <widget class="QCheckBox" name="cb_rotation">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>280</y>
+     <x>30</x>
+     <y>400</y>
      <width>141</width>
      <height>31</height>
     </rect>
@@ -174,8 +174,8 @@
   <widget class="QCheckBox" name="cb_shearing">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>350</y>
+     <x>30</x>
+     <y>470</y>
      <width>141</width>
      <height>31</height>
     </rect>
@@ -194,8 +194,8 @@
   <widget class="QCheckBox" name="cb_resizing">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>320</y>
+     <x>30</x>
+     <y>440</y>
      <width>141</width>
      <height>21</height>
     </rect>
@@ -214,8 +214,8 @@
   <widget class="QLabel" name="lbl_debug">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>410</y>
+     <x>20</x>
+     <y>580</y>
      <width>371</width>
      <height>31</height>
     </rect>
@@ -230,8 +230,8 @@
   <widget class="QCheckBox" name="cb_scaling">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>220</y>
+     <x>30</x>
+     <y>340</y>
      <width>141</width>
      <height>21</height>
     </rect>
