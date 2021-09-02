@@ -4,6 +4,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5 import uic
 
+# form_class로 ui를 가져옴
 form_class = uic.loadUiType("webEngineViewTest.ui")[0]
 
 class WindowClass(QMainWindow, form_class) :
